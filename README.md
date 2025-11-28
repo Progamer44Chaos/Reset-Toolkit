@@ -4,7 +4,7 @@
 
 ### Overview
 This project provides a collection of batch scripts to reset and repair core Windows components.  
-It covers WLAN, DNS cache, firewall, Windows Defender, Microsoft Store, printer queue, and system updates.  
+It covers WLAN, DNS Cache, Firewall, Windows Defender, Microsoft Store, Printer Queue, and System Updates.  
 An interactive menu (`Reset-Tool.bat`) allows easy selection without typing commands manually.
 
 ### Features
